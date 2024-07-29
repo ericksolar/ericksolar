@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hola 👋
 
+Soy un programador backend junior con experiencia en Java Spring Boot, JavaScript y Angular. Actualmente, me encuentro en el proceso de convertirme en un desarrollador fullstack.
+
+### Acerca de mi 
 <!--
 **ericksolar/ericksolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
