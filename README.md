@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy un programador backend junior con experiencia en Java Spring Boot. Soy un desarrollador apasionado por la tecnología y la innovación, especializado en el desarrollo de aplicaciones web. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
+Soy un programador backend con experiencia en Java Spring Boot. Soy un desarrollador apasionado por la tecnología y la innovación, especializado en el desarrollo de aplicaciones web. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
 
 
 ## Habilidades
