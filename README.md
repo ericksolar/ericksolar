@@ -1,8 +1,14 @@
 ### Hola 👋
 
-Soy un programador backend junior con experiencia en Java Spring Boot, JavaScript y Angular. Actualmente, me encuentro en el proceso de convertirme en un desarrollador fullstack.
+Soy un programador backend junior con experiencia en Java Spring Boot. Manejo bases de datos como Oracle, MySQL, SQL Server y PostgreSQL. Además, tengo habilidades en JavaScript y TypeScript, así como en frameworks frontend como Angular. También domino tecnologías web como HTML5 y CSS (Bootstrap) para el desarrollo de interfaces de usuario atractivas y responsivas.
 
-### Acerca de mi 
+### Competencias Blandas
+Me destaco por ser un  pensador crítico con habilidades para la resolución de problemas y el trabajo en equipo. Valoro la colaboración y tengo una fuerte fuerza de voluntad y esfuerzo.
+
+### Manejo de Versiones
+Tengo experiencia en el manejo de versiones utilizando Git y GitHub, lo que me permite gestionar eficientemente los cambios en el código.
+
+
 <!--
 **ericksolar/ericksolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
