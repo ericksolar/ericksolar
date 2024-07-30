@@ -1,6 +1,15 @@
 ### Hola 👋
 
-Soy un programador backend junior con experiencia en Java Spring Boot. Manejo bases de datos como Oracle, MySQL, SQL Server y PostgreSQL. Además, tengo habilidades en JavaScript y TypeScript, así como en frameworks frontend como Angular. También domino tecnologías web como HTML5 y CSS (Bootstrap) para el desarrollo de interfaces de usuario atractivas y responsivas.
+Soy un programador backend junior con experiencia en Java Spring Boot. Soy un desarrollador apasionado por la tecnología y la innovación, especializado en el desarrollo de aplicaciones web. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
+
+
+## Habilidades
+Backend: Java, Spring Boot, 
+Frontend: JavaScript, Angular, Bootstrap
+Bases de Datos: MySQL, PL/SQL Oracle
+Herramientas: Git, Postman, Visual Studio Code
+Metodologías: Scrum
+
 <!--
 ### Competencias Blandas
 Me destaco por ser un  pensador crítico con habilidades para la resolución de problemas y el trabajo en equipo. Valoro la colaboración y tengo una fuerte fuerza de voluntad y esfuerzo.
