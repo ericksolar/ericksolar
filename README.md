@@ -4,11 +4,11 @@ Soy un programador backend con experiencia en Java Spring Boot. Mi pasión por l
 
 
 ## Habilidades
-* **Backend**: Java, Spring Boot, 
-* **Frontend**: JavaScript, Angular, Bootstrap
-* **Bases de Datos**: MySQL, PL/SQL Oracle
-* **Herramientas**: Git, Postman, Visual Studio Code
-* **Metodologías**: Scrum
+* **Backend**: Java, Spring Boot, Spring Security.
+* **Frontend**: JavaScript, TypeScript, Angular, Bootstrap.
+* **Bases de Datos**: MySQL, SQL Server.
+* **Herramientas**: Git, Postman, Visual Studio Code.
+* **Metodologías**: Scrum.
 
 <!--
 ### Competencias Blandas
