@@ -4,10 +4,10 @@ Soy un programador backend con experiencia en Java Spring Boot. Mi pasión por l
 
 
 ## Habilidades
-* **Backend**: Java, Spring Boot, Spring Security.
+* **Backend**: Java, Go, Python, Spring Boot, Spring Security.
 * **Frontend**: JavaScript, TypeScript, React, React Native, Tailwind css, Angular, Bootstrap.
-* **Bases de Datos**: MySQL, SQL Server.
-* **Herramientas**: Git, Postman, Visual Studio Code.
+* **Bases de Datos**: MySQL, SQL Server, Posgrest,Redis.
+* **Herramientas**: Git, Postman, Jira, Visual Studio Code, IntelliJ IDEA.
 * **Metodologías**: Scrum.
 
 <!--
