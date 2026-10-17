@@ -3,14 +3,6 @@
 Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la tecnología me ha llevado a especializarme en el desarrollo de aplicaciones web. Siempre estoy en busca de nuevas oportunidades para aprender, crecer y perfeccionar mis habilidades.
 
 
-## Habilidades
-* **Backend**: Java, Go, Python, Spring Boot, Spring Security.
-* **Frontend**: JavaScript, TypeScript, React, React Native, Tailwind css, Angular, Bootstrap.
-* **Bases de Datos**: MySQL, SQL Server, Posgrest,Redis.
-* **Herramientas**: Git, Postman, Jira, Visual Studio Code, IntelliJ IDEA.
-* **Metodologías**: Scrum.
-
-
 ## 👔 Experiencias
 | Position | Compañia | Area  | Periodo |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
@@ -24,22 +16,20 @@ Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la 
 
 ## 🛠 Technologies
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,ts,js,html,css,tailwind&perline=9" alt="Angular, React, Next.js, Astro, TypeScript, JavaScript, HTML, CSS y Tailwind CSS" />
-</p>
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 ### Backend y datos
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,go,mysql,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, .NET, Go, MySQL, MongoDB y Redis" />
-</p>
 
 ### Herramientas y entrega
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&perline=6" alt="Git, GitHub, Docker, Vercel, Figma y Visual Studio Code" />
-</p>
 
 ---
 
