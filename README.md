@@ -1,58 +1,45 @@
-### Hola 👋
+<div align="center">
+👋 Hola, soy Erick
+Desarrollador Full Stack · Chile 🇨🇱
 
-Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la tecnología me ha llevado a especializarme en el desarrollo de aplicaciones web. Siempre estoy en busca de nuevas oportunidades para aprender, crecer y perfeccionar mis habilidades.
+Diseño y construyo aplicaciones web robustas,
+con foco en APIs limpias, código mantenible y buenas prácticas.
 
+</div>
 
-## 👔 Experiencias
-| Position | Compañia | Area  | Periodo |
-| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| Desarrollador Full Stack | Utfsm | DSI | 2025 — 2026 |
-| Desarrollador Full Stack | Socius | Desarrollo | 2024 — 2025 |
-| Desarrollador Back End | Demafront | Desarrollo | 2023 — 2024 |
-| Analista Programador | Directemar | Desarrollo | 2022 — 2023 |
+Sobre mí
 
-## 🎓 Educacion
-- ** Analista Programador Computacional** @ Instituto Profesional Duoc Uc (2016)
+Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la tecnología me ha llevado a especializarme en el desarrollo de aplicaciones web.
 
-## 🛠 Technologies
-### Frontend
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+Siempre estoy en busca de nuevas oportunidades para aprender, crecer y perfeccionar mis habilidades.
 
-### Backend y datos
+☕ Desarrollo de APIs y servicios con Java y Spring Boot.
+🧩 Experiencia full stack en proyectos de distintos tamaños.
+🧪 Interés por la calidad, las pruebas y el código limpio.
+🚀 Aprendizaje continuo y mejora constante.
 
+👔 Experiencia
+Cargo	Compañía	Área	Periodo
+Desarrollador Full Stack	UTFSM	DSI	2025 — 2026
+Desarrollador Full Stack	Socius	Desarrollo	2024 — 2025
+Desarrollador Back End	Demafront	Desarrollo	2023 — 2024
+Analista Programador	Directemar	Desarrollo	2022 — 2023
 
-### Herramientas y entrega
+🎓 Educación
+Analista Programador Computacional · Instituto Profesional DUOC UC (2016)
 
+🛠 Tecnologías
 
----
+Backend y datos
+<p> <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongodb&perline=6" alt="Java, Spring, Maven, MySQL, PostgreSQL y MongoDB" /> </p>
 
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Angular y React" /> </p>
 
-<!--
-### Competencias Blandas
-Me destaco por ser un  pensador crítico con habilidades para la resolución de problemas y el trabajo en equipo. Valoro la colaboración y tengo una fuerte fuerza de voluntad y esfuerzo.
-
-### Manejo de Versiones
-Tengo experiencia en el manejo de versiones utilizando Git y GitHub, lo que me permite gestionar eficientemente los cambios en el código.
-
-
-
-**ericksolar/ericksolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Herramientas y entrega
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,intellij,vscode&perline=6" alt="Git, GitHub, Docker, Postman, IntelliJ y VS Code" /> </p>
+Actualmente me interesa
+Arquitecturas backend escalables y mantenibles.
+Microservicios y buenas prácticas con Spring Boot.
+Pruebas automatizadas y calidad de código.
+Contenedores y despliegue con Docker.
