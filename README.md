@@ -10,6 +10,14 @@ Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la 
 * **Herramientas**: Git, Postman, Jira, Visual Studio Code, IntelliJ IDEA.
 * **Metodologías**: Scrum.
 
+
+## 👔 Experiencias
+| Position | Compañia | Area  | Periodo |
+| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
+| Desarrollador Full Stack | Utfsm | DSI | 2025 — 2026 |
+| Desarrollador Full Stack | Socius | Desarrollo | 2024 — 2025 |
+| Desarrollador Back End | Demafront | SaaS Management & Operations | 2023 — 2024 |
+| Analista Programador | Directemar | SaaS Support & Robotics | 2022 — 2023 |
 <!--
 ### Competencias Blandas
 Me destaco por ser un  pensador crítico con habilidades para la resolución de problemas y el trabajo en equipo. Valoro la colaboración y tengo una fuerte fuerza de voluntad y esfuerzo.
