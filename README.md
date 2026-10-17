@@ -18,6 +18,23 @@ Soy un programador backend con experiencia en Java Spring Boot. Mi gusto por la 
 | Desarrollador Full Stack | Socius | Desarrollo | 2024 — 2025 |
 | Desarrollador Back End | Demafront | SaaS Management & Operations | 2023 — 2024 |
 | Analista Programador | Directemar | SaaS Support & Robotics | 2022 — 2023 |
+
+## 🎓 Education & Certifications
+- ** Analista Programador Computacional** @ Instituto Profesional Duoc Uc (2016)
+
+## 🛠 Technologies I Use  
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 <!--
 ### Competencias Blandas
 Me destaco por ser un  pensador crítico con habilidades para la resolución de problemas y el trabajo en equipo. Valoro la colaboración y tengo una fuerte fuerza de voluntad y esfuerzo.
